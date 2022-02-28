@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "ssl.h": "c",
+        "wifi_creds.h": "c",
+        "certs.h": "c",
+        "error.h": "c",
+        "task.h": "c",
+        "web_requests.h": "c",
+        "esp_log.h": "c"
+    }
+}
